@@ -1,4 +1,4 @@
-# this pattern is same as wbe_single not diff is we are sprating the model file from base project image
+ # this pattern is same as wbe_single not diff is we are sprating the model file from base project image
 # we are storing the model files seprate from docker images
 # so if the model updates frequently it does not effects the image updates
 # example image[api+preprocessing] =>ecr ,  model[xgboot.pkl] =>aws_s3
